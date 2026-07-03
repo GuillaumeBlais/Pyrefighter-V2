@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (trop lourd pour GitHub - max 100 Mo par fichier)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+!data/metadata/*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modèles entraînés
+*.pkl
+*.joblib
+models/
