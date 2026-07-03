@@ -101,5 +101,4 @@ Ce projet est la refonte modernisée de : [Pyrefighter/Pyrefighter (V1)](https:/
 
 ## 👤 Auteur
 
-**Guillaume Blais** — Data & Marketing Automation Consultant
-Basé à Paris 🇫🇷
+**Guillaume Blais**
